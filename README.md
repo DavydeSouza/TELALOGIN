@@ -34,7 +34,6 @@ Navegue até a pasta do projeto e abra o arquivo index.html em qualquer navegado
 * Animações: Incluir animações sutis para aprimorar a experiência do usuário ao interagir com os campos e botões.
 * Recuperação de Senha: Criar uma interface para a recuperação de senhas.
 ## 📸 Visual do Projeto
-(Você pode adicionar capturas de tela da interface aqui)
 
 ## 🤝 Contribuições
 Se você quiser contribuir para este projeto com melhorias no design ou novas funcionalidades, sinta-se à vontade para abrir uma issue ou enviar um pull request!
